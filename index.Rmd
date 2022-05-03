@@ -1,0 +1,7 @@
+---
+title: "New website: https://covid19.ctu.unibe.ch/"
+description: ""
+output: html_document
+---
+
+The Covid-19 Social Monitor has moved to https://covid19.ctu.unibe.ch/
